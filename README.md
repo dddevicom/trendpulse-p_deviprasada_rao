@@ -23,6 +23,8 @@ This project follows a complete data pipeline approach:
 * Requests
 * Datetime
 * ThreadPoolExecutor
+* Json
+* Os
 * Matplotlib
 * Seaborn
 
