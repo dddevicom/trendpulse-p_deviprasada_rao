@@ -19,7 +19,10 @@ This project follows a complete data pipeline approach:
 
 * Python
 * Pandas
+* Numpy
+* 
 * Matplotlib
+* Seaborn
 * Requests
 
 ---
