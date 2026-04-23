@@ -20,10 +20,12 @@ This project follows a complete data pipeline approach:
 * Python
 * Pandas
 * Numpy
-* 
+* Requests
+* Datetime
+* ThreadPoolExecutor
 * Matplotlib
 * Seaborn
-* Requests
+
 
 ---
 
